@@ -8,7 +8,7 @@ This created by [simple_mvc_framework](https://github.com/xSPANGLEx/simple_mvc_f
 ## Installation
 
 1. Clone this repository.
-2. Execute this command.
+2. Execute this command.<br>
    ```
    python main.py
    ```
