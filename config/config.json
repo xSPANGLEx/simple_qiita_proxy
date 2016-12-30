@@ -1,0 +1,7 @@
+{
+    "mvc_config":{
+        "controller": "controller",
+        "view": "view",
+        "model": "model"
+    }
+}
