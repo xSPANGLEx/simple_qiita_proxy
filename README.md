@@ -12,4 +12,12 @@ This created by [simple_mvc_framework](https://github.com/xSPANGLEx/simple_mvc_f
    ```
    python main.py
    ```
+3. To access "http://[HOST]:8000/"
 
+## How to
+1. Input for directory name with target address.<br>
+   ```
+   http://qiita.com/[hoge/foo/bar] 
+   [] is input target.
+   ```
+2. Press the enter key.
